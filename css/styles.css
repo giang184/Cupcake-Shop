@@ -1,0 +1,9 @@
+.flashy {
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(255, 0, 0);
+  font-style: italic;
+}
+.best {
+  font-weight: bold;
+  color: blueviolet;
+}
